@@ -1,6 +1,8 @@
 # OpenGLRenderer
 This is a custom OpenGL renderer I originally made as part of a class at Digipen
-Demos Available on https://www.markkouris.com/ under CS300/350 Engine. 
+Demos Available on https://www.markkouris.com/ under the OpenGL renderer segment. The links to the youtube demos can also be found below:
+https://youtu.be/VamWJbjvFlo (reflection and fresnel demo)
+https://youtu.be/5o3roLDmkTA (improved camera and general functionality demo)
 
 ### notes:
 I plan to continually expand this project to allow more versatility and to allow for more use cases.
